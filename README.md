@@ -1,4 +1,3 @@
-# FEWD - Project 1 - Rachel
  My Personal Profile Page
 
  For this project, I was given a personal profile webpage to practice basic HTML and CSS skills. I had to customize the page with my own photos and information. I also had to use CSS to change colors, add animations, and improve the look of the page. 
