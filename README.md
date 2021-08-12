@@ -1,14 +1,14 @@
 # My Personal Profile Page
 
- For this project, I was given a personal profile webpage to practice basic HTML and CSS skills. I had to customize the page with my own photos and information. I also had to use CSS to change colors, add animations, and improve the look of the page. 
+In this project, I was given a personal profile webpage to practice basic HTML and CSS skills. I had to customize the page with my own photos and information. I also had to use CSS to change colors, add animations, and improve the look of the page. The CSS properties used for styling the profile photo were transform and transition. 
 
- I went for the Exceeds Expectations Grading where I had to further expand on the project by creating an additonal page to expand on this online profile, edit the styling of the profile photo's CSS properties like transtion and transform, add more photos and imagery to the page, and add more text to the page like a list of my hobbies. 
+I further added two pages; experience.html and hobbies.html. 
 
- Broswers tested for compatibility:
+Broswers tested for compatibility:
 
  1. Chrome
  2. Firefox
  3. Edge
 
- Grade: Meets Expectations
+Grade: Meets Expectations
  
