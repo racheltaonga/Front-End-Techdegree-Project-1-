@@ -4,7 +4,7 @@ In this project, I was given a personal profile webpage to practice basic HTML a
 
 I further added two pages; experience.html and hobbies.html. 
 
-Broswers tested for compatibility:
+Browsers tested for compatibility:
 
  1. Chrome
  2. Firefox
