@@ -10,5 +10,5 @@ Browsers tested for compatibility:
  2. Firefox
  3. Edge
 
-Grade: Meets Expectations
+Grade: Meets Expectation
  
